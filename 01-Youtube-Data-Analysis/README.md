@@ -16,7 +16,7 @@ It includes the usage of relevant AWS services such as S3, Glue, Lambda, IAM and
 - Create a dashboard using QuickSight (BI tool) to analyze the data.
 
 ---
-## Tech Diagram
+## Tech Diagram 📐
 
 Find below the tech design for this solution.
 
