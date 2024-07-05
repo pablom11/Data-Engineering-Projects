@@ -3,7 +3,7 @@
 ## Summary 🚀
 
 
-This project is a simple airflow ETL which was deployed utilizing AWS Managed Workflows for Apache Airflow (MWAA). In the solution, data was extracted from Rapid Football API, it was processed with a simple python ETL, orchestrated with an airflow DAG and stored in a S3 bucket after normalization.
+This project is a simple airflow ETL which was deployed utilizing AWS Managed Workflows for Apache Airflow (MWAA). In the solution, data was extracted from Rapid Football API, it was processed with a simple python ETL, orchestrated with an airflow DAG and stored in a S3 bucket after applying simple data transformations.
 
 ---
 ## Objectives 🎯

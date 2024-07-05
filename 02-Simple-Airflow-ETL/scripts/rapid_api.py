@@ -29,4 +29,4 @@ def run_rapid_football_etl():
     df_sorted = df.sort_values(by='fixture_date')
 
     # Store output in csv format in a S3 bucket
-    df_sorted.to_csv("s3://pablomtb-airflowbucket-202405/results/rapid_football_results_2010.csv")
+    df_sorted.to_csv("s3://pablomtb-burner-20240513-airflow/results/rapid_football_results_2010.csv")
